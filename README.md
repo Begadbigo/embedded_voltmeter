@@ -53,4 +53,4 @@ I designed and implemented the full MicroPython code to read analog sensor value
 ## Project Links
 
 - [Wokwi Project Link](https://wokwi.com/projects/431299110050596865)  
-- [GitHub Repository](https://github.com/begadbigo/embedded-voltmeter)
+- [GitHub Repository](https://github.com/Begadbigo/embedded-voltmeter)
